@@ -1,0 +1,7 @@
+train: ./yolo data/train
+val: ./yolo data/val
+
+#num classes
+nc: 2
+
+names: ['bolt', 'nut']
